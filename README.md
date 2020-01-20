@@ -1,1 +1,1 @@
-# SpaniardSolitarie
+# SpaniardSolitaire
